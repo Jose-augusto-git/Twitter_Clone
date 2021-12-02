@@ -1,6 +1,6 @@
 # Twitter_Clone
 
-PHP  & MySQL - Projeto aplicado Twitter Clone
+PHP  & MySQL - Projeto aplicado Twitter Clone de 2018
 
  ___
  
