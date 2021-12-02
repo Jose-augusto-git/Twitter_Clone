@@ -39,7 +39,7 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`) VALUES
-(1, 'JOSE AUGUSTO NUNES BORGES', 'joserock0001@gmail.com', 'e10adc3949ba59abbe56e057f20f883e'),
+(1, 'JOSE', 'admin@gmail.com', 'e10adc3949ba59abbe56e057f20f883e'),
 (2, 'Alexandra', 'user@admin.com', 'e10adc3949ba59abbe56e057f20f883e'),
 (3, 'Maria', 'user2@admin.com', 'e10adc3949ba59abbe56e057f20f883e'),
 (4, 'Alisa', 'user3@admin.com', 'b4586f37b2ca1597ce77fe32980a14d1');
