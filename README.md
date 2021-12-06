@@ -1,7 +1,7 @@
 # Twitter_Clone
 
 PHP  & MySQL - Projeto aplicado Twitter Clone de 2018
-### Tela de pesquisa de usuários
+### 3. Tela de pesquisa de usuários
  ___
  
  ### Tela Login
@@ -9,7 +9,7 @@ PHP  & MySQL - Projeto aplicado Twitter Clone de 2018
  
  ___
  
- ### Tela de Inscrever-se
+ ### 3.Tela de Inscrever-se
  ![image](https://user-images.githubusercontent.com/73261477/144122126-76bf0845-8f80-4a57-a336-858d1a09cb4f.png)
  
  ___
