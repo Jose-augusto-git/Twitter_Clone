@@ -2,7 +2,7 @@
 
 PHP  & MySQL - Projeto aplicado Twitter Clone de 2018
 
-### [1. Tela Login](https://github.com/Jose-augusto-git/Twitter_Clone#tela-login-1)
+### [1. Tela Login](https://github.com/Jose-augusto-git/Twitter_Clone#tela-login)
 ### [2. Tela de Inscrever-se](https://github.com/Jose-augusto-git/Twitter_Clone#tela-de-inscrever-se)
 ### [3. Tela de Sucesso](https://github.com/Jose-augusto-git/Twitter_Clone#tela-de-sucesso)
 ### [4. Informando Erros de cadastro e da tela de login](https://github.com/Jose-augusto-git/Twitter_Clone#informando-erros-de-cadastro-e-da-tela-de-login)
