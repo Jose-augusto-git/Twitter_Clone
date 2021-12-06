@@ -2,12 +2,12 @@
 
 PHP  & MySQL - Projeto aplicado Twitter Clone de 2018
 
-### [1. Tela Login](https://github.com/Jose-augusto-git/Twitter_Clone#1-tela-login-1)
-### [2. Tela de Inscrever-se](https://github.com/Jose-augusto-git/Twitter_Clone#2-tela-de-inscrever-se)
+### [1. Tela Login](https://github.com/Jose-augusto-git/Twitter_Clone#tela-login-1)
+### [2. Tela de Inscrever-se](https://github.com/Jose-augusto-git/Twitter_Clone#tela-de-inscrever-se)
 ### [3. Tela de Sucesso](https://github.com/Jose-augusto-git/Twitter_Clone#tela-de-sucesso)
-### [4. Informando Erros de cadastro e da tela de login](https://github.com/Jose-augusto-git/Twitter_Clone#4-informando-erros-de-cadastro-e-da-tela-de-login)
-### [5. Tela Timeline do usuário](https://github.com/Jose-augusto-git/Twitter_Clone#5-tela-timeline-do-usu%C3%A1rio)
-### [6. Tela de pesquisa de usuários](https://github.com/Jose-augusto-git/Twitter_Clone#6-tela-de-pesquisa-de-usu%C3%A1rios)
+### [4. Informando Erros de cadastro e da tela de login](https://github.com/Jose-augusto-git/Twitter_Clone#informando-erros-de-cadastro-e-da-tela-de-login)
+### [5. Tela Timeline do usuário](https://github.com/Jose-augusto-git/Twitter_Clone#tela-timeline-do-usu%C3%A1rio)
+### [6. Tela de pesquisa de usuários](https://github.com/Jose-augusto-git/Twitter_Clone#tela-de-pesquisa-de-usu%C3%A1rios)
 
  ___
  
