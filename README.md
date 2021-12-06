@@ -24,11 +24,11 @@ PHP  & MySQL - Projeto aplicado Twitter Clone de 2018
  ![image](https://user-images.githubusercontent.com/73261477/144499988-33a91fe1-5464-4fc6-8255-edeff6b9fcfa.png)
  ___
  ### Tela Timeline do usuário
- ![image](https://user-images.githubusercontent.com/73261477/144499169-979f9754-f14a-4a9d-b36a-ea032857e086.png)
+ ![image](https://user-images.githubusercontent.com/73261477/144913474-7e66e6ff-8fae-410c-9634-4f0cbf842ee9.png)
  
  ___
  ### Tela de pesquisa de usuários
- ![image](https://user-images.githubusercontent.com/73261477/144499674-3f21cbfa-ad69-4b7f-bf2f-6404f7258b28.png)
+ ![image](https://user-images.githubusercontent.com/73261477/144913627-cd611424-9f0c-48ce-93e7-cf2bf8879bff.png)
 
  
  
