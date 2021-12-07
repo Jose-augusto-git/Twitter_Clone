@@ -28,6 +28,11 @@ PHP  & MySQL - Projeto aplicado Twitter Clone de 2018
  ___
  ### Tela de pesquisa de usuários
  ![image](https://user-images.githubusercontent.com/73261477/144913627-cd611424-9f0c-48ce-93e7-cf2bf8879bff.png)
+ 
+ ___
+ ### Paginação
+ ![image](https://user-images.githubusercontent.com/73261477/145095095-16661174-3e21-4e88-9d22-0d2dd728a599.png)
+
 
  
  
