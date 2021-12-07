@@ -15,7 +15,7 @@ class AppController extends Action {
             $tweet->__set('id_usuario', $_SESSION['id']);
             
             //variáveis de páginação
-            $total_registro_pagina = 10;//limit
+            $total_registro_pagina = 5;//limit
             $deslocamento = 0;//offset
             $pagina = isset($_GET['pagina']) ? $_GET['pagina'] : 1;
             $deslocamento = ($pagina - 1) * $total_registro_pagina;
